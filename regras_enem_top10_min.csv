@@ -1,0 +1,11 @@
+﻿antecedents,consequents,support,confidence,lift
+"frozenset({'tem_computador_Nao', 'tipo_escola_Privada'})","frozenset({'dependencia_adm_Privada', 'aproveitamento_Insuficiente'})",0.05099822760258168,0.6402183039462637,7.56099839767185
+"frozenset({'dependencia_adm_Privada', 'tem_computador_Nao'})","frozenset({'aproveitamento_Insuficiente', 'tipo_escola_Privada'})",0.05099822760258168,0.6402183039462637,7.56099839767185
+"frozenset({'aproveitamento_Insuficiente', 'tipo_escola_Privada'})","frozenset({'dependencia_adm_Privada', 'tem_computador_Nao'})",0.05099822760258168,0.6022906793048973,7.560998397671849
+"frozenset({'dependencia_adm_Privada', 'aproveitamento_Insuficiente'})","frozenset({'tem_computador_Nao', 'tipo_escola_Privada'})",0.05099822760258168,0.6022906793048973,7.560998397671849
+"frozenset({'dependencia_adm_Privada', 'estado_civil_Nao-Solteiro', 'tem_computador_Nao'})","frozenset({'escolaridade_mae_Ensino-Medio', 'tipo_escola_Privada'})",0.05738554660067552,0.7467362924281984,6.332857445400005
+"frozenset({'estado_civil_Nao-Solteiro', 'tem_computador_Nao', 'tipo_escola_Privada'})","frozenset({'dependencia_adm_Privada', 'escolaridade_mae_Ensino-Medio'})",0.05738554660067552,0.7467362924281984,6.332857445400005
+"frozenset({'dependencia_adm_Privada', 'faixa_etaria_Ate-20-anos', 'tem_computador_Nao', 'estado_civil_Nao-Solteiro'})","frozenset({'escolaridade_mae_Ensino-Medio', 'tipo_escola_Privada'})",0.055746915025248304,0.7465293327362293,6.331102279299905
+"frozenset({'estado_civil_Nao-Solteiro', 'faixa_etaria_Ate-20-anos', 'tem_computador_Nao', 'tipo_escola_Privada'})","frozenset({'dependencia_adm_Privada', 'escolaridade_mae_Ensino-Medio'})",0.055746915025248304,0.7465293327362293,6.331102279299905
+"frozenset({'dependencia_adm_Privada', 'escolaridade_mae_Ensino-Medio', 'estado_civil_Nao-Solteiro'})","frozenset({'tem_computador_Nao', 'tipo_escola_Privada'})",0.05738554660067552,0.50426094622392,6.33035897352388
+"frozenset({'dependencia_adm_Privada', 'tem_computador_Nao'})","frozenset({'estado_civil_Nao-Solteiro', 'escolaridade_mae_Ensino-Medio', 'tipo_escola_Privada'})",0.05738554660067552,0.7204030226700252,6.33035897352388
